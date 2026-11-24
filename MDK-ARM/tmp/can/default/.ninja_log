@@ -1,0 +1,15 @@
+# ninja log v7
+5	529	8165832528754310	can+can/src/can+can-stamp/can+can-mkdir	f421d11b646366cb
+5	529	8165832528754310	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-mkdir	f421d11b646366cb
+530	1219	8165832535370968	can+can/src/can+can-stamp/can+can-download	4e5f84454db1cb3a
+530	1219	8165832535370968	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-download	4e5f84454db1cb3a
+2	132	8171878624716722	can+can/src/can+can-stamp/can+can-update	48fe7f54df59b5d6
+2	132	8171878624716722	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-update	48fe7f54df59b5d6
+132	259	8171878625984140	can+can/src/can+can-stamp/can+can-patch	dc4f69ad89622ed1
+132	259	8171878625984140	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-patch	dc4f69ad89622ed1
+260	5458	8171878677949577	can+can/src/can+can-stamp/can+can-configure	1fa8612122b6ca6
+260	5458	8171878677949577	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-configure	1fa8612122b6ca6
+1	163	8171885006262908	can+can/src/can+can-stamp/can+can-database	c81c03f2f41b1f7b
+1	163	8171885006262908	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-database	c81c03f2f41b1f7b
+2	181	8171924136355221	can+can/src/can+can-stamp/can+can-database	c81c03f2f41b1f7b
+2	181	8171924136355221	D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-database	c81c03f2f41b1f7b

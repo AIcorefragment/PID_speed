@@ -1,0 +1,17 @@
+# Keil build outputs
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/can/*.o
+MDK-ARM/can/*.d
+MDK-ARM/can/*.axf
+MDK-ARM/can/*.hex
+MDK-ARM/can/*.map
+MDK-ARM/can/*.lnp
+MDK-ARM/can/*.htm
+MDK-ARM/can/*.dep
+MDK-ARM/can/*.build_log.htm
+
+# user / backup files
+*.uvguix.*
+*.bak
+*.log

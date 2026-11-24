@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "can": {
+            "activeTargetType": "can"
+        }
+    },
+    "activeSolution": "../can.csolution.yml",
+    "activeTarget": "can"
+}

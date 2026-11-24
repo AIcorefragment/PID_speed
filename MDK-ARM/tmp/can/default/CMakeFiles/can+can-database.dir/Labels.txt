@@ -1,0 +1,11 @@
+# Target labels
+ can+can
+# Source files and their labels
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/CMakeFiles/can+can-database
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/CMakeFiles/can+can-database.rule
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-database.rule
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-configure.rule
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-patch.rule
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-update.rule
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-download.rule
+D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-mkdir.rule

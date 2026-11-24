@@ -1,0 +1,10 @@
+CompileFlags:
+  CompilationDatabase: d:\RoboMaster\training\week3_can\can\MDK-ARM\out\can\can
+
+---
+If:
+  PathMatch: .*\.(c|C|h)$
+CompileFlags:
+  Add:
+    - -include
+    - d:\RoboMaster\training\week3_can\can\MDK-ARM\out\can\can\compile_macros_c.h

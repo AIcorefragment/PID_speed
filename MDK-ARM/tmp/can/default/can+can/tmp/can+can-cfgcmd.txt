@@ -1,0 +1,1 @@
+cmd='C:/Users/hxsp_/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.31.12/bin/cmake.exe;-G;Ninja;-S;<SOURCE_DIR>;-B;<BINARY_DIR>;-DSOLUTION_ROOT=D:/RoboMaster/training/week3_can/can/MDK-ARM;-DCMSIS_PACK_ROOT=D:/keil_v5/Pack;-DCMSIS_COMPILER_ROOT=C:/Users/hxsp_/.vscode/extensions/arm.cmsis-csolution-1.72.0-win32-x64/tools/cmsis-toolbox/etc'

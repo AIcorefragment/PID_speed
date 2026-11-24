@@ -1,0 +1,20 @@
+build-idx:
+  generated-by: csolution version 2.15.1+p3-gf46d68bf
+  target: can
+  csolution: can.csolution.yml
+  cbuild-run: out/can+can.cbuild-run.yml
+  tmpdir: tmp/can/default
+  cprojects:
+    - cproject: can.cproject.yml
+  cbuilds:
+    - cbuild: out/can/can/can+can.cbuild.yml
+      project: can
+      configuration: +can
+      messages:
+        info:
+          - can.cbuild-pack.yml - file is already up-to-date
+          - can+can.cbuild-run.yml - file generated successfully
+          - can+can.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.16.2
+        - pack: ARM::CMSIS-NN@4.1.0

@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/CMakeFiles/can+can-configure"
+		},
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/CMakeFiles/can+can-configure.rule"
+		},
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-configure.rule"
+		},
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-patch.rule"
+		},
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-update.rule"
+		},
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-download.rule"
+		},
+		{
+			"file" : "D:/RoboMaster/training/week3_can/can/MDK-ARM/tmp/can/default/can+can/src/can+can-stamp/can+can-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"can+can"
+		],
+		"name" : "can+can-configure"
+	}
+}
